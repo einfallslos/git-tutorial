@@ -1,4 +1,4 @@
-***ISUE***: underline all headlines (abstract, results)
+***ISSUE***: underline all headlines (abstract, results)
 
 Abstract:
 Here we define the equation that saves the world in the morning.
@@ -6,5 +6,5 @@ Here we define the equation that saves the world in the morning.
 ***ISUE***: write an even nicer greeting for the beginning
 
 Results:
-***ISUE***: make something up
+***ISSUE***: make something up
 
